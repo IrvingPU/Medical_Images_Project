@@ -1,2 +1,2 @@
 # Medical_Images_Project
-This repository contains code and results for DICOM image loading, visualization, and 3D tumor segmentation. It includes CT data parsing, Maximum Intensity Projection animation, semi-automatic tumor segmentation, and performance evaluation.
+This project covers DICOM image loading, 3D visualization through Maximum Intensity Projection, and semi-automatic tumor segmentation on CT scans. It includes data parsing, animation generation, segmentation algorithm design, and evaluation.
