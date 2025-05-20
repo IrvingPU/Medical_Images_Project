@@ -118,3 +118,10 @@ if __name__ == "__main__":
     # Create rotating MIP GIF (optional, adjust path as needed)
     output_gif = "rotating_mip.gif"
     create_rotating_mip_gif(rescaled_volume, output_gif, axis=1, num_frames=36)
+
+
+#0 a 600
+#Alfa fucion
+#Los detalles finos tienen coincidir
+#Slide between spaces
+#Windwin
