@@ -45,5 +45,5 @@ jupyter notebook
 
 ## Authors
 
-- Your Name – MSc Student at UIB
+- Irving Perez Uribe – MSc Student at UIB
 
